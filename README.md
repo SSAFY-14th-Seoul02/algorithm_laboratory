@@ -55,6 +55,9 @@ BOJ 그룹
 2. [PR 가이드](.docs/PULL_REQUESTS_GUIDE.md)
 
 
+3. [Commit 가이드](./docs/HOW_TO_COMMIT_GUIDE.md)
+
+
 4. [코드리뷰 가이드](.docs/CODE_REVIEW_GUIDE.md)
 
 
