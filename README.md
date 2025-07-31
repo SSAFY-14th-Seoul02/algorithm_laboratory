@@ -49,19 +49,19 @@ BOJ 그룹
 <br>
 
 
-1. [VSCODE로 시작하기 튜토리얼](.docs/GETTING_STARTED.md)
+1. [VSCODE로 시작하기 튜토리얼](./.docs/GETTING_STARTED.md)
 
 
-2. [PR 가이드](.docs/PULL_REQUESTS_GUIDE.md)
+2. [PR 가이드](./.docs/PULL_REQUESTS_GUIDE.md)
 
 
-3. [Commit 가이드](./docs/HOW_TO_COMMIT_GUIDE.md)
+3. [Commit 가이드](./.docs/HOW_TO_COMMIT_GUIDE.md)
 
 
-4. [코드리뷰 가이드](.docs/CODE_REVIEW_GUIDE.md)
+4. [코드리뷰 가이드](./.docs/CODE_REVIEW_GUIDE.md)
 
 
-5. [본인 폴더만 Clone 하기](.docs/Only_My_Folder_Clone_Guide.md)
+5. [본인 폴더만 Clone 하기](./.docs/Only_My_Folder_Clone_Guide.md)
 
 
 <br>
