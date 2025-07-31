@@ -44,8 +44,9 @@
 <img width="1871" height="660" alt="commit_text" src="https://github.com/user-attachments/assets/1b1bf5c9-d9f0-4b93-ab67-1aefac328ead" />
 
 ### 3.sync change(pull&push)
-- 커밋을 원격 저장소에 푸시하기 위해 sync change 버튼을 눌러
-
+- 커밋을 원격 저장소에 푸시하기 위해 sync change 버튼을 눌러 pull & push 진행
+- 기존의 CLI에서 git pull과 git push를 따로 할 필요 없이 한 번 에 진행하는 버튼
+<img width="217" height="225" alt="Image" src="https://github.com/user-attachments/assets/0c49bd64-e0fe-4043-b794-1f9a5473f41d" />
 
 ---
 
