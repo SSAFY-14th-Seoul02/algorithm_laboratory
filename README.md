@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |**김동현** <br> [valofosho](https://github.com/valofosho) <br>|**김기남** <br> [kinam-ssafy](https://github.com/kinam-ssafy)<br>| **김나연** <br> [Nancykim99](https://github.com/Nancykim99) <br>|**김선일** <br>[seony1ll98](https://github.com/seony1ll98)|**문하윤** <br>[moonhayun116](https://github.com/moonhayun116)<br>|
 |![용하](https://avatars.githubusercontent.com/u/94966807?v=4)|![진영](https://avatars.githubusercontent.com/u/91312489?v=4)|![찬석](https://avatars.githubusercontent.com/u/221036337?v=4)|![희연](https://avatars.githubusercontent.com/u/197713492?v=4)|![나라](https://avatars.githubusercontent.com/u/221251629?v=4)|
-|**박용하** <br> [Yong-HaPark](https://github.com/Yong-HaPark)<br>|**박진영** <br> [202250274](https://github.com/202250274)<br>| **박찬석** <br> [chan-suk-park](https://github.com/chan-suk-park)<br>| **변희연** <br> [Heeyun-B](https://github.com/Heeyun-B)<br>|**서나라** <br>[nnnnnara](https://github.com/nnnnnara)<br>|
+|**박용하** <br> [Yong-HaPark](https://github.com/Yong-HaPark)<br>|**박진영** <br> [202250274](https://github.com/202250274)<br>| **박찬석** <br> [chan-suk-park](https://github.com/ckstjrl)<br>| **변희연** <br> [Heeyun-B](https://github.com/Heeyun-B)<br>|**서나라** <br>[nnnnnara](https://github.com/nnnnnara)<br>|
 |![예영](https://avatars.githubusercontent.com/u/221251770?v=4)|![짝유](https://avatars.githubusercontent.com/u/78489159?v=4)|![대천](https://avatars.githubusercontent.com/u/221086209?v=4)|![지수](https://avatars.githubusercontent.com/u/151099185?v=4)|![승훈](https://avatars.githubusercontent.com/u/221937859?v=4)|
 |**서예영** <br> [aeongseo](https://github.com/aeongseo)<br>|**신유정** <br>[miayujeong](https://github.com/miayujeong)<br>| **양대천** <br> [bigskyyang](https://github.com/bigskyyang) <br>|**오지수** <br> [ohjisu320](https://github.com/ohjisu320) <br>|**이승훈** <br> [LSH0707](https://github.com/LSH0707)<br>|
 |![큰유](https://avatars.githubusercontent.com/u/221252746?v=4)|![재엽](https://avatars.githubusercontent.com/u/221252045?v=4)|![서진](https://avatars.githubusercontent.com/u/221236928?v=4)|![승준](https://avatars.githubusercontent.com/u/92257971?v=4)|![웅준](https://avatars.githubusercontent.com/u/221251702?v=4)|
@@ -39,12 +39,11 @@
 
 ### 참여방법
 
-BOJ 그룹 
-
 1. repository fork
 2. clone
 3. 본인 폴더 생성
-4. 알고리즘 문제 해결 후 PR
+4. 알고리즘 문제 해결 후 주 2회(화,목) PR 생성
+5. 주 1회 비슷한 난이도의 문제를 푼 사람의 PR에서 코드 리뷰 진행
 
 
 상세설명 :
