@@ -19,7 +19,7 @@
 ---
 
 ### Team Profile
-|![동현](https://avatars.githubusercontent.com/u/58420112?v=4)|![기남](https://avatars.githubusercontent.com/u/221251691?v=4)|![나연](https://avatars.githubusercontent.com/u/79682888?v=4)|![하윤](https://avatars.githubusercontent.com/u/219803262?v=4)|![선일](https://avatars.githubusercontent.com/u/203397199?v=4)
+|![동현](https://avatars.githubusercontent.com/u/58420112?v=4)|![기남](https://avatars.githubusercontent.com/u/221251691?v=4)|![나연](https://avatars.githubusercontent.com/u/79682888?v=4)|![하윤](https://avatars.githubusercontent.com/u/203397199?v=4)|![선일](https://avatars.githubusercontent.com/u/219803262?v=4)
 |:---:|:---:|:---:|:---:|:---:|
 |**김동현** <br> [valofosho](https://github.com/valofosho) <br>|**김기남** <br> [kinam-ssafy](https://github.com/kinam-ssafy)<br>| **김나연** <br> [Nancykim99](https://github.com/Nancykim99) <br>|**김선일** <br>[seony1ll98](https://github.com/seony1ll98)|**문하윤** <br>[moonhayun116](https://github.com/moonhayun116)<br>|
 |![용하](https://avatars.githubusercontent.com/u/94966807?v=4)|![진영](https://avatars.githubusercontent.com/u/91312489?v=4)|![찬석](https://avatars.githubusercontent.com/u/221036337?v=4)|![희연](https://avatars.githubusercontent.com/u/197713492?v=4)|![나라](https://avatars.githubusercontent.com/u/221251629?v=4)|
