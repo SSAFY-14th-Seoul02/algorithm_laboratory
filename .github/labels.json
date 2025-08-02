@@ -1,0 +1,52 @@
+[
+    {
+        "name": "⚙ Setting",
+        "color": "DADDE4",
+        "description": "개발 환경 세팅"
+    },
+    {
+        "name": "✨ D1/SWEA",
+        "color": "57498F",
+        "description": "기능 개발"
+    },
+    {
+        "name": "🌏 D2/SWEA",
+        "color": "1396E5",
+        "description": "배포 관련"
+    },
+    {
+        "name": "🔥 D3/SWEA",
+        "color": "C7C4FF",
+        "description": "백엔드 관련"
+    },
+    {
+        "name": "🎨 BOJ",
+        "color": "FFF8E7",
+        "description": "프론트엔드 관련"
+    },
+    {
+        "name": "💻 Python",
+        "color": "FFDAB9",
+        "description": "모델 관련"
+    },
+    {
+        "name": "🐞 C/C++",
+        "color": "FF1414",
+        "description": "버그 발생"
+    },
+    {
+        "name": "📃 JAVA",
+        "color": "2F2C2C", 
+        "description": "문서 작성 및 수정"
+    },
+    {
+        "name": "🙋‍♂️ Question",
+        "color": "2DB400", 
+        "description": "질문 있어요"
+    },
+    {
+        "name": "🗑️ Deprecated",
+        "color": "F5FFFA",
+        "description": "이제 더 이상 필요 없어요"
+    }
+]
