@@ -19,7 +19,6 @@
 
 ### 1. 공용 레포 > PR 리스트 확인하기
 - 공용 레포 (SSAFY-14th-Seou02/algorithm-study)에서 PR 탭 클릭
-
 <img width="1886" height="1128" alt=pr-tab" src="https://github.com/user-attachments/assets/7220b80d-3351-437b-9ad0-a5cccb778d75" />
 
 
