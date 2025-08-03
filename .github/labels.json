@@ -7,37 +7,37 @@
     {
         "name": "✨ D1/SWEA",
         "color": "57498F",
-        "description": "기능 개발"
+        "description": "SWEA D1 문제 풀이"
     },
     {
         "name": "🌏 D2/SWEA",
         "color": "1396E5",
-        "description": "배포 관련"
+        "description": "SWEA D2 문제 풀이"
     },
     {
         "name": "🔥 D3/SWEA",
         "color": "C7C4FF",
-        "description": "백엔드 관련"
+        "description": "SWEA D3 문제 풀이"
     },
     {
         "name": "🎨 BOJ",
         "color": "FFF8E7",
-        "description": "프론트엔드 관련"
+        "description": "BOJ 문제 풀이"
     },
     {
         "name": "💻 Python",
         "color": "FFDAB9",
-        "description": "모델 관련"
+        "description": "Python 사용"
     },
     {
         "name": "🐞 C/C++",
         "color": "FF1414",
-        "description": "버그 발생"
+        "description": "C/C++ 사용"
     },
     {
         "name": "📃 JAVA",
         "color": "2F2C2C", 
-        "description": "문서 작성 및 수정"
+        "description": "JAVA 사용"
     },
     {
         "name": "🙋‍♂️ Question",
