@@ -32,4 +32,7 @@
 
 ### 5. Git Clone 완료 화면
 <img width="998" height="530" alt="Image" src="https://github.com/user-attachments/assets/f236245d-b32e-42f7-a48a-495614c0f27d" />
----
+
+### 6. Clone한 레포에 본인 이름의 폴더 생성
+
+### 7. 본인 이름의 폴더 아래 문제 풀이 코드 작성
